@@ -10,5 +10,4 @@
   - フレームワークが定まっている
   - 対: unstructured
 
-- /home/melonoidz/Corsera/DeepLearning/5cc3ae22-ff00-46cc-951e-84abc761982aimage7.png
-- 
+![test](/home/melonoidz/Corsera/DeepLearning/
