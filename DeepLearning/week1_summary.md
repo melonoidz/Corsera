@@ -10,4 +10,4 @@
   - フレームワークが定まっている
   - 対: unstructured
 
-![test](chap1/graph.png)
+![test](https://github.com/melonoidz/Corsera/blob/main/DeepLearning/graph.png)
